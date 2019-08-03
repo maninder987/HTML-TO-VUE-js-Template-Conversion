@@ -1,5 +1,6 @@
 # sample Project
 
+<a href="https://imgur.com/Ao3S41p"><img src="https://i.imgur.com/Ao3S41p.gif" title="source: imgur.com" /></a>
 ## Project setup
 ```
 npm install
