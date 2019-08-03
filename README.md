@@ -1,7 +1,7 @@
 # sample Project
-[img]https://i.imgur.com/Ao3S41p.gif[/img]
-
-
+<img src="https://imgur.com/Ao3S41p" title="source: imgur.com" />
+<img src="https://i.imgur.com/Ao3S41p.gifv" title="source: imgur.com" />
+<img src="https://i.imgur.com/Ao3S41p.gif" title="source: imgur.com" />
 
 
 
